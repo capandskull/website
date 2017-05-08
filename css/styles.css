@@ -1,0 +1,195 @@
+/*
+ *  styles.css
+ */
+
+body
+{
+  background-color: black;
+}
+
+@font-face
+{
+  font-family: NoticiaText;
+  src: url('../fonts/NoticiaText/NoticiaText-Regular.ttf');
+}
+
+@font-face
+{
+  font-family: NoticiaText-Bold;
+  src: url('../fonts/NoticiaText/NoticiaText-Bold.ttf');
+}
+
+@font-face
+{
+  font-family: Santos;
+  src: url('../fonts/santos.otf');
+}
+
+@font-face
+{
+  font-family: DW-Pica;
+  src: url('../fonts/dw-pica.ttf');
+}
+
+.Santos
+{
+  font-family: Santos;
+}
+
+.DW-Pica
+{
+  font-family: DW-Pica;
+}
+
+.NoticiaText-Bold
+{
+  font-family: NoticiaText-Bold;
+}
+
+#skull-picture
+{
+  display: none;
+}
+
+div.upper-padding
+{
+  padding-top: 60px;
+}
+
+h1.section-header
+{
+  margin:0px !important;
+}
+
+div.skulls-tables td
+{
+  font-size: 12px;
+  padding: 1px !important;
+}
+
+section.adjusted
+{
+  height: auto !important;
+  padding-top: 5% !important;
+  padding-bottom: 5% !important;
+}
+
+#intro
+{
+  /*background-image: url('/static/img/cs-kirkpatrick.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;*/
+  background-color: black;
+}
+
+h1.home-header
+{
+  color: white;
+  font-size: 48px;
+  display: none;
+}
+
+.navbar
+{
+  opacity: 0.92;
+}
+
+.justify
+{
+  text-align: justify;
+}
+
+.center
+{
+  text-align: center;
+}
+
+.NoticiaText
+{
+  font-family: NoticiaText;
+}
+
+.skulls-table
+{
+  table-layout: fixed;
+}
+
+.skulls-table th, .skulls-table td
+{
+  border-top: 0px !important;
+  font-size: 10.5px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.apply-now
+{
+  color:red !important;
+}
+
+.black-background
+{
+  background-color: black;
+}
+
+.white-text
+{
+  color: white;
+}
+
+.black-text
+{
+  color: black;
+}
+
+.upper-margin
+{
+  margin-top: 20px;
+}
+
+ul.ui-autocomplete.ui-menu li {
+    font-family: NoticiaText;
+}
+
+#skulls-search-error
+{
+  visibility: hidden;
+}
+
+.gray-background
+{
+  background-color: gray;
+  min-height: 100%;
+}
+
+.apply-small
+{
+  color:black;
+}
+
+.apply-result
+{
+  visibility: hidden;
+}
+
+#skull-search-error
+{
+  display: none;
+}
+
+.honorary-skulls-table th, .honorary-skulls-table td
+{
+  border-top: 0px !important;
+}
+
+.honorary-skulls-table td
+{
+  padding: 1px !important;
+  font-size: 12px;
+}
+
+.honorary-skulls-table th
+{
+  text-align: center;
+}
