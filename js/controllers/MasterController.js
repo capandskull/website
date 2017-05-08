@@ -4,9 +4,4 @@ angular.module('MasterController', [])
 
 	$scope.title = null;
 
-	var init = function() {
-		console.log($rootScope.title);
-	}
-	init();
-
 });

@@ -1,0 +1,27 @@
+<!-- Hold div with history frame -->
+<div class="upper-padding" id="frame-outside">
+    <iframe id="timeline-frame" src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1Hjm19Iksch3ihWTtjTagjMGG3RbNoYOmaAdqI1wbae0&font=Default&lang=en&initial_zoom=3' width='1' height='1' frameborder='0'></iframe>
+</div>
+
+<script type="text/javascript">
+
+  $(document).ready(function() {
+    /*
+     *  If user is on web:
+     *  Make frame 95% of window, height -60 of window.
+     */
+    if(typeof window.orientation === 'undefined') {
+      $("#timeline-frame").attr('width', $(window).width() * 0.95);
+      $("#timeline-frame").attr('height', $(window).height() - 60);
+      $("#frame-outside").css("text-align", "center");
+    }
+    /*
+     *  Mobile: full window.
+     */
+    else {
+      $("#timeline-frame").attr('width', $(window).width());
+      $("#timeline-frame").attr('height', $(window).height());
+    }
+  });
+
+</script>
