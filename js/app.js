@@ -9,6 +9,7 @@ var csApp = angular.module("csApp", [
 	"SkullsController",
 	"HistoryController",
 	"ApplyController",
+	"MasterController",
 
 	// Service Providers
 	"DataService"
@@ -41,6 +42,8 @@ csApp.config(function($routeProvider) {
 
 });
 
-csApp.run(function() {
+csApp.run(function($rootScope) {
+
+	$rootScope.title = null;
 
 });
