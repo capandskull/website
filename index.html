@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" ng-app="csApp">
+
+  <head>
+    <!-- Meta tags -->
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta http-equiv="cache-control" content="no-cache">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no" />
+    <meta name="author" content="Cap & Skull Senior Honor Society" />
+    <meta name="description" content="Cap & Skull Senior Honor Society" />
+    <meta name="keywords"  content="" />
+    <meta name="Resource-type" content="Document" />
+
+    <title>
+        Cap & Skull Senior Honor Society
+    </title>
+
+    <!-- Libraries -->
+    <!-- JS -->
+    <script type="text/javascript" src="js/lib/jquery.js"></script>
+    <script type="text/javascript" src="js/lib/bootstrap.min.js"></script>
+    <script type="text/javascript" src="js/lib/jquery-ui.js"></script>
+    <script type="text/javascript" src="js/lib/jquery.easing.min.js"></script>
+    <script type="text/javascript" src="js/lib/jquery.form.js"></script>
+    <script type="text/javascript" src="js/lib/list.js"></script>
+    <script type="text/javascript" src="js/lib/scripts.js"></script>
+    <script type="text/javascript" src="js/lib/scrolling-nav.js"></script>
+    <script type="text/javascript" src="js/lib/wow.js"></script>
+
+    <!-- CSS -->
+    <link type="text/css" rel="stylesheet" href="css/animate.css">
+    <link type="text/css" rel="stylesheet" href="css/bootstrap.min.css">
+    <link type="text/css" rel="stylesheet" href="css/jquery-ui.css">
+    <link type="text/css" rel="stylesheet" href="css/scrolling-nav.css">
+    <link type="text/css" rel="stylesheet" href="css/styles.css">
+
+    <!-- AngularJS -->
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/angular.js/1.6.1/angular.min.js"></script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/angular.js/1.6.1/angular-route.min.js"></script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/angular.js/1.6.1/angular-cookies.min.js"></script>
+    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.1/angular-sanitize.js"></script>
+
+    <script type="text/javascript" src="js/controllers/ApplyController.js"></script>
+    <script type="text/javascript" src="js/controllers/HistoryController.js"></script>
+    <script type="text/javascript" src="js/controllers/HomeController.js"></script>
+    <script type="text/javascript" src="js/controllers/SkullsController.js"></script>
+
+    <script type="text/javascript" src="js/services/DataService.js"></script>
+
+    <script type="text/javascript" src="js/app.js"></script>
+
+    <!-- Initialize  -->
+    <script type="text/javascript">
+        $(document).ready(function() {
+            // Set up WOW object, initialize.
+            var wow = new WOW({
+                mobile: false
+            });
+            wow.init();
+
+            // Set up max year on skull search.
+            $("#skull-year").attr("max", (new Date()).getFullYear());
+        });
+    </script>
+  
+  </head>
+
+  <!-- Body -->
+  <body id="page-top" data-spy="scroll" data-target=".navbar-fixed-top">
+    
+    <!-- Navigation-->
+    <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+        <div class="container">
+            <!-- Navbar header -->
+            <div class="navbar-header page-scroll">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand page-scroll NoticiaText" href="/">Cap & Skull</a>
+            </div>
+            <!-- Collapsible Navbar -->
+            <div class="collapse navbar-collapse navbar-ex1-collapse">
+                <!-- Navbar left -->
+                <ul class="nav navbar-nav">
+                    <li>
+                        <a class="page-scroll NoticiaText" href="/history">History</a>
+                    </li>
+                    <!--<li>
+                        <a class="page-scroll NoticiaText" href="/legacy">Legacy</a>
+                    </li>-->
+                    <li>
+                        <a class="page-scroll NoticiaText" href="/skulls">Skulls</a>
+                    </li>
+                </ul>
+                <ul class="nav navbar-nav">                 
+                    <!-- If on the Skulls page, show search. -->
+                    <li>
+                        <div class="navbar-form navbar-left form-horizontal wow fadeIn animated" role="search">
+                            <div class="form-group" style="margin:auto;display:inline-block !important;margin-right:5px">
+                                <input type="number" id="skull-year" class="form-control center" placeholder="1900" min="1900">
+                            </div>
+                            <button type="submit" id="skull-search" class="btn btn-default"><span class="glyphicon glyphicon-search" aria-hidden="true"></span></button>
+                            <span style="margin-left:5px">
+                                <button class="btn btn-danger top">Back to Top</button>
+                            </span>
+                            <span>
+                                <button type="button" class="btn btn-warning" data-toggle="modal" data-target="#myModal">Honorary Skulls</button>
+                            </span>
+                        </div>
+                    </li>
+                </ul>
+                <!-- Navbar right -->
+                <ul class="nav navbar-nav navbar-right">
+                        <div class="navbar-form navbar-left wow fadeIn animated">
+                        </div>
+                    <li>
+                        <a class="NoticiaText" target="_BLANK" href="https://cap-and-skull.myshopify.com/">Gift Shop</a>
+                    </li>
+                    <li>
+                        <a class="NoticiaText-Bold apply-now" href="/apply">Apply Now</a>
+                    </li>
+                    <!--<li>
+                        <a class="NoticiaText" target="_BLANK" href="https://securelb.imodules.com/s/896/Foundation/hybrid/oneCol.aspx?sid=896&gid=1&pgid=2138&bledit=1&dids=1028.1029.1030.1031&sort=1">Support</a>
+                    </li>-->
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <ng-view></ng-view>
+
+  </body>
+</html>
