@@ -1,0 +1,5820 @@
+[
+    {
+        "skulls": [
+            {
+                "high_skull": 0, 
+                "name": "Robert Cooke"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "J. Bayard Kirpatrick, Jr."
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Cornelius Van Leuven"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Charles Cowenhoven, Jr."
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "William McMahon"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "John Wirth"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Blanchard Edgar"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Ernest Rapalje"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Graham Woodruff"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Herbert deWitt Rapalje"
+            }
+        ], 
+        "year": 1900
+    }, 
+    {
+        "skulls": [
+            {
+                "high_skull": 0, 
+                "name": "Charles Bell"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Edward Johnson"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "James Read"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Frederick Hart"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Oliver Mann"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "John Charles Richters"
+            }
+        ], 
+        "year": 1901
+    }, 
+    {
+        "skulls": [
+            {
+                "high_skull": 0, 
+                "name": "Henry Miller"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Ralph Smith"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Charles Stevens, Jr."
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Frank Russum"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Nicholas Williamson"
+            }
+        ], 
+        "year": 1902
+    }, 
+    {
+        "skulls": [
+            {
+                "high_skull": 0, 
+                "name": "Chester Brown"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "William Fontaine Little"
+            }, 
+            {
+                "high_skull": 1, 
+                "name": "Robert Neilson"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "David Edgar"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Stephen Malven"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Austin Wakeman Scott"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "William Fisher"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Huyler van Hoevenberg"
+            }
+        ], 
+        "year": 1903
+    }, 
+    {
+        "skulls": [
+            {
+                "high_skull": 0, 
+                "name": "Alfred Hitchner"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "John Miller"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "William Stewart, Jr."
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Harry Howell"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Ridgway Moon"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Thomas Van Winkle"
+            }, 
+            {
+                "high_skull": 1, 
+                "name": "George Mount"
+            }
+        ], 
+        "year": 1904
+    }, 
+    {
+        "skulls": [
+            {
+                "high_skull": 0, 
+                "name": "Robert Cobb"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "John Pearce"
+            }, 
+            {
+                "high_skull": 1, 
+                "name": "Albert Stillman"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "David Mason"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Francis Wilber"
+            }
+        ], 
+        "year": 1905
+    }, 
+    {
+        "skulls": [
+            {
+                "high_skull": 0, 
+                "name": "Raymond Allen"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Harry Brown"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Henry Fales, Jr."
+            }, 
+            {
+                "high_skull": 1, 
+                "name": "G. Gouverneur Ashwell"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "John MacNeill"
+            }
+        ], 
+        "year": 1906
+    }, 
+    {
+        "skulls": [
+            {
+                "high_skull": 0, 
+                "name": "Thomas Halliwell, Jr."
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Max Hemmer, Jr."
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Vinton Tompkins"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Alton Swan"
+            }
+        ], 
+        "year": 1907
+    }, 
+    {
+        "skulls": [
+            {
+                "high_skull": 0, 
+                "name": "Stockton Cranmer"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "William MacNeill"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Harold Segoine"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Douglas Fisher"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Richard Rice"
+            }, 
+            {
+                "high_skull": 1, 
+                "name": "Arthur Swift"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "William Seddon"
+            }
+        ], 
+        "year": 1908
+    }, 
+    {
+        "skulls": [
+            {
+                "high_skull": 0, 
+                "name": "Charles Corbin"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Frank Morrison"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Walter Sedam"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Clifford Lawrence"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Halsey Ramsen"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Luman Schafer"
+            }, 
+            {
+                "high_skull": 1, 
+                "name": "Benjamin Miller"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Herman Vanderwart"
+            }
+        ], 
+        "year": 1909
+    }, 
+    {
+        "skulls": [
+            {
+                "high_skull": 0, 
+                "name": "Charles Butler"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Morgan Hand, II"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Edwin Leslie"
+            }, 
+            {
+                "high_skull": 1, 
+                "name": "Clarence Green"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Frank Van Winkle"
+            }
+        ], 
+        "year": 1910
+    }, 
+    {
+        "skulls": [
+            {
+                "high_skull": 0, 
+                "name": "Malcolm Carl"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "William MacDonald"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Lloyd Van Ness"
+            }, 
+            {
+                "high_skull": 1, 
+                "name": "Howard Smith"
+            }
+        ], 
+        "year": 1911
+    }, 
+    {
+        "skulls": [
+            {
+                "high_skull": 0, 
+                "name": "George David Auchter"
+            }, 
+            {
+                "high_skull": 1, 
+                "name": "Henry Cooper"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Valentine Havens"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Walter Bowen"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "John Morrison"
+            }
+        ], 
+        "year": 1912
+    }, 
+    {
+        "skulls": [
+            {
+                "high_skull": 0, 
+                "name": "William Ball, Jr."
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Clifford Dennis"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Earl Silvers"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Whitfield Bell"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Donald Havens"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Theodore Van Winkle"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Frederick Johnson"
+            }
+        ], 
+        "year": 1913
+    }, 
+    {
+        "skulls": [
+            {
+                "high_skull": 0, 
+                "name": "Henry Davies"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "John Elmendorf, Jr."
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "George Schmidt"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Albert Leeds"
+            }
+        ], 
+        "year": 1914
+    }, 
+    {
+        "skulls": [
+            {
+                "high_skull": 0, 
+                "name": "Lawrence Gilliam"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Robert Searle"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Ralph Todd"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Charles Martin"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Wainwright Twing"
+            }
+        ], 
+        "year": 1915
+    }, 
+    {
+        "skulls": [
+            {
+                "high_skull": 0, 
+                "name": "Raymond Austin"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "James Coleman"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "George Whisler"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Dudley Browning"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Robert Nash"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Ralph White"
+            }, 
+            {
+                "high_skull": 1, 
+                "name": "Harry Rockafeller, Jr."
+            }
+        ], 
+        "year": 1916
+    }, 
+    {
+        "skulls": [
+            {
+                "high_skull": 0, 
+                "name": "Frederick Heitkamp"
+            }, 
+            {
+                "high_skull": 1, 
+                "name": "Francis Scarr"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Harold Wettyen"
+            }
+        ], 
+        "year": 1917
+    }, 
+    {
+        "skulls": [
+            {
+                "high_skull": 0, 
+                "name": "Norman Dahl"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "George MacDonald"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "John Wittpenn, Jr."
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "John Waterfield"
+            }
+        ], 
+        "year": 1918
+    }, 
+    {
+        "skulls": [
+            {
+                "high_skull": 0, 
+                "name": "Charles Bellerjeau"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Joseph Breckley"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Paul Robeson"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "William Feitner"
+            }
+        ], 
+        "year": 1919
+    }, 
+    {
+        "skulls": [
+            {
+                "high_skull": 0, 
+                "name": "Clifford Baker"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Calvin Meury"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "C. Walter Rice"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Frank Kelley"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Leland Taliaferro"
+            }
+        ], 
+        "year": 1920
+    }, 
+    {
+        "skulls": [
+            {
+                "high_skull": 0, 
+                "name": "William Gardner"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Henry Parker, Jr."
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Ralph P.S. Van Orden"
+            }
+        ], 
+        "year": 1921
+    }, 
+    {
+        "skulls": [
+            {
+                "high_skull": 0, 
+                "name": "Paul Duffy"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Edwin Durand"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "John Summerill, Jr."
+            }
+        ], 
+        "year": 1922
+    }, 
+    {
+        "skulls": [
+            {
+                "high_skull": 0, 
+                "name": "C. Stuart Beattie"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "J. Irving Kibbe"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "John Rowe"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "John Bebout"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Herbert Herman Meyer"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "John Scudder"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Edward Benzoni"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Cyril Redmond"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Thomas Summerill"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Warren Dixon, Jr."
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Clarence Ross"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "James Terwilliger, III"
+            }
+        ], 
+        "year": 1923
+    }, 
+    {
+        "skulls": [
+            {
+                "high_skull": 0, 
+                "name": "John Barrett"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "William Kingman"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Frank Powell"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Robert Black"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Harvey Lloyd"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Howard Raub"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Ellis Enander"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Robert Oley"
+            }, 
+            {
+                "high_skull": 1, 
+                "name": "Dana Scudder"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Robert Galbraith"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Alfred Platt"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Charles Warr"
+            }
+        ], 
+        "year": 1924
+    }, 
+    {
+        "skulls": [
+            {
+                "high_skull": 0, 
+                "name": "William Anderson"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Clifford Case, Jr."
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Homer Hazel"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Robert Barr"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Charles Dayton"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Franklin Marryott"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Edward Brennan"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Henry Gray"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "John Mohn"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Howard Butcher"
+            }, 
+            {
+                "high_skull": 1, 
+                "name": "Hugh Potts, II"
+            }
+        ], 
+        "year": 1925
+    }, 
+    {
+        "skulls": [
+            {
+                "high_skull": 0, 
+                "name": "Philip Boocock"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "George DeNike, Jr."
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Kenneth Ruch"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Raymond Brandes"
+            }, 
+            {
+                "high_skull": 1, 
+                "name": "Gerrit Foster"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Austin Singer"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Wallance Chandler"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "William Hillpot"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "L. Lee Starke"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Theordore Clarke"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Charles Osgood, Jr."
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Charles Terrill"
+            }
+        ], 
+        "year": 1926
+    }, 
+    {
+        "skulls": [
+            {
+                "high_skull": 0, 
+                "name": "Samuel Blackman"
+            }, 
+            {
+                "high_skull": 1, 
+                "name": "J. Kenneth Gifford"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Oswald 'Ozzie' Nelson"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Alfred Brown, Jr."
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Lester Hanf"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Roland Renne"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "James Carson"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Geroge Hiecke"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Gordon Schutzendorf"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Freeman Cass"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Allan Mitchell"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Everett Waugh"
+            }
+        ], 
+        "year": 1927
+    }, 
+    {
+        "skulls": [
+            {
+                "high_skull": 0, 
+                "name": "Frank Curry"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "John Kauffman"
+            }, 
+            {
+                "high_skull": 1, 
+                "name": "E. Wayne Marjarum"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Edward Gray"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "William Kempf"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Edwin Roberts"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "M. Gregg Hibbs, Jr."
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Richard Levis"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Selah Schoonmaker"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Forrest Holmes"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Herbert Lorenz"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "George Young, Jr."
+            }
+        ], 
+        "year": 1928
+    }, 
+    {
+        "skulls": [
+            {
+                "high_skull": 0, 
+                "name": "Robert Blunt"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Karl Gordinier"
+            }, 
+            {
+                "high_skull": 1, 
+                "name": "David Morse"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Richard Boettcher"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Benjamin Hewlett"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Nelson Rohrbach"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "John Carney"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Joseph Irwin"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Stanley Rosen"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Kingsley Childs"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Robert Knight"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Edwin Tilley"
+            }
+        ], 
+        "year": 1929
+    }, 
+    {
+        "skulls": [
+            {
+                "high_skull": 0, 
+                "name": "Robert Berry"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "William McKenna, Jr."
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Charles O'Neill, Jr."
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Richard Crowl"
+            }, 
+            {
+                "high_skull": 1, 
+                "name": "Ernest McMahon"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "William Sahloff"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Stephen Doig, Jr."
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "William Newson"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "W. Tracy Scudder, Jr."
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Charles Garrett"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "John Olds"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Richard Warr"
+            }
+        ], 
+        "year": 1930
+    }, 
+    {
+        "skulls": [
+            {
+                "high_skull": 1, 
+                "name": "Ralph Campbell"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "George Guiler"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "George Kojak"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "George Cronin"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Edward Heyd"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Charles Kramer"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Edward Decker, Jr."
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Burton Hutchings"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Thomas Phillips"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "William Gies"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "John Kirkwood"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Walter Stager"
+            }
+        ], 
+        "year": 1931
+    }, 
+    {
+        "skulls": [
+            {
+                "high_skull": 0, 
+                "name": "Henry Bagley"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Elias Fischer"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "George Latimer"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Arthur Burton"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "John Grossman"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Donald Moore"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Jeremiah Cronin, Jr."
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Lester Horton"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "David (Kusanobu) Murray"
+            }, 
+            {
+                "high_skull": 1, 
+                "name": "Edward Drake"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Franklin Janin, Jr."
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "John Waldron, Jr."
+            }
+        ], 
+        "year": 1932
+    }, 
+    {
+        "skulls": [
+            {
+                "high_skull": 0, 
+                "name": "George Chilson"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Earl Schenck Miers"
+            }, 
+            {
+                "high_skull": 1, 
+                "name": "William Ward"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Archibald Dunlop"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Charles Morgan"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Nelson Wheaton, Jr."
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "John Liddy"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Phillip Spitzhoff"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Walter Wiggins"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Hector Mattia"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Jack Wallace"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Albert Wiley, Jr."
+            }
+        ], 
+        "year": 1933
+    }, 
+    {
+        "skulls": [
+            {
+                "high_skull": 0, 
+                "name": "Harry (Barske) Barr"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Philip Dodge"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "William Kyle"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Edward Baumer"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Francis Heenan"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Henry Lee Munson"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "William C. Demarest"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "James Humphreys"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Walter Spence"
+            }, 
+            {
+                "high_skull": 1, 
+                "name": "Donald Dickerson"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "George Kramer"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "William Sterns, Jr."
+            }
+        ], 
+        "year": 1934
+    }, 
+    {
+        "skulls": [
+            {
+                "high_skull": 0, 
+                "name": "Walter Ashley, Jr."
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "John Farnham"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Alfred Rochester"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "William Clover"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Leonard Frank"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "William Sperling, III"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Robert Collett"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Louis Hemerda, Sr."
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Paul Straussburger, Jr."
+            }, 
+            {
+                "high_skull": 1, 
+                "name": "Louis Cudlin"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Edward Iversen"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Albert Twitchell"
+            }
+        ], 
+        "year": 1935
+    }, 
+    {
+        "skulls": [
+            {
+                "high_skull": 0, 
+                "name": "Kenneth Doty"
+            }, 
+            {
+                "high_skull": 1, 
+                "name": "J. Richard Keating"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Gilbert Smith, Jr."
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Henry Fritts"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Peter Kornicki"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Edwin Stevens"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Frederick Heinrich"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Richard Newcomb"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Franklyn Van Houten"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "William Hess, Jr."
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "John Nilan"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Deaniel Van Matter, Jr."
+            }
+        ], 
+        "year": 1936
+    }, 
+    {
+        "skulls": [
+            {
+                "high_skull": 0, 
+                "name": "Maurice Bullard, Jr."
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Arthur Kammerman"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Robert Metzler"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "John Gordon"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Elmer Klinsman"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Wallace Pringle"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "John Gulick"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "William Luckenbach, Jr."
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Edward Simpson, Jr."
+            }, 
+            {
+                "high_skull": 1, 
+                "name": "Jerome Jefferds"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Charles McClure"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "John Williamson"
+            }
+        ], 
+        "year": 1937
+    }, 
+    {
+        "skulls": [
+            {
+                "high_skull": 0, 
+                "name": "John Anderson"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "George Hallock"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Arthur Perry"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Joseph Barile"
+            }, 
+            {
+                "high_skull": 1, 
+                "name": "Robert Kull"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "William Raffensperger"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Albert Espenship"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Kenneth MacWhinney, Jr."
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Setven Stanowicz"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Alphonsus Haire"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Carlyle Miller"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Richard Steadman"
+            }
+        ], 
+        "year": 1938
+    }, 
+    {
+        "skulls": [
+            {
+                "high_skull": 0, 
+                "name": "Walter Bruyere, III"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Edwin Gerber"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Ralph Shaw, Jr."
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "John Casey"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Stephen Hitchner"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Earl Silvers, Jr."
+            }, 
+            {
+                "high_skull": 1, 
+                "name": "Grover Coe"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "William Lakamp, Jr."
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Akin Toffey"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "James Doyle"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Morton Rochelle"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "John Winter"
+            }
+        ], 
+        "year": 1939
+    }, 
+    {
+        "skulls": [
+            {
+                "high_skull": 0, 
+                "name": "William Ashby"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Robert Grasmere"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Edwin Keeler"
+            }, 
+            {
+                "high_skull": 1, 
+                "name": "Carleton Dilatush"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "John Hotchkiss"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Ralph Russo"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Charles Ficken"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Joseph Joffe"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Edwin Taylor"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Robert Gaynor"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "William Tranavitch"
+            }
+        ], 
+        "year": 1940
+    }, 
+    {
+        "skulls": [
+            {
+                "high_skull": 0, 
+                "name": "Frank Brock"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Neil McManus"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Charles Prout, Jr."
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Leonard Cooke"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "George Norberg"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Joseph Siry"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Howard Crosby, Jr."
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Kenneth Omley"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "John Vaill"
+            }, 
+            {
+                "high_skull": 1, 
+                "name": "Albert Hasbrouck, Jr."
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Lawrence O'Neill"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "James Wallace"
+            }
+        ], 
+        "year": 1941
+    }, 
+    {
+        "skulls": [
+            {
+                "high_skull": 1, 
+                "name": "Lyman Avery"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Ronald Jarvis, Jr."
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Joseph Puleo, Jr."
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "S. Robert Christensen"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Jarvis Kellogg"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Ralph Schmidt"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Robert Haber"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "John Melrose"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Carl Shuster, Jr."
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Stewart Hurlburt"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Frank Patten"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Vincent Utz"
+            }
+        ], 
+        "year": 1942
+    }, 
+    {
+        "skulls": [
+            {
+                "high_skull": 0, 
+                "name": "Fred Baser"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Leonard Hansen"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Malcom Schweiker, Jr."
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "George Brightenback"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Kenneth MacDonald, Jr."
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "William Van Nuis"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "James Chandler, Jr."
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Richard Nelson"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "W.S. Peter Whitestone"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "John Everett"
+            }, 
+            {
+                "high_skull": 1, 
+                "name": "Charles Zukaukas"
+            }
+        ], 
+        "year": 1943
+    }, 
+    {
+        "skulls": [
+            {
+                "high_skull": 0, 
+                "name": "Robert Byram"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Richard Hale"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Douglas Macfarlan, Jr."
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Harold Conners"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Douglas McCabe"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Ripley Watson, Jr."
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Charles Gantner"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Charles Weiner"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Livingston Goodman, Jr."
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "John Wheeler"
+            }
+        ], 
+        "year": 1944
+    }, 
+    {
+        "skulls": [
+            {
+                "high_skull": 0, 
+                "name": "Robert Burrowes"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "George Hutchinson"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Louis Winters"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Carl Thomas"
+            }
+        ], 
+        "year": 1946
+    }, 
+    {
+        "skulls": [
+            {
+                "high_skull": 0, 
+                "name": "James Alexander"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Franklyn Johnson"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "George Ranieri"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Anthony Antin"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "William Millington"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Walter Yonker"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Howell Nomer"
+            }
+        ], 
+        "year": 1947
+    }, 
+    {
+        "skulls": [
+            {
+                "high_skull": 1, 
+                "name": "David Brown"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "John Gibson"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Alfred Neuschaefer, Jr."
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Anthony Conway, Jr."
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "William Hobbie"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Anthony Pomper"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "James Essig"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Barton Klion"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Baird Whitlock"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Ben Ford"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Raymond Lippincott, Jr."
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Harold Zilch"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Bert Manhoff"
+            }
+        ], 
+        "year": 1948
+    }, 
+    {
+        "skulls": [
+            {
+                "high_skull": 0, 
+                "name": "Charles Fletcher Bishop, Jr."
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "George Leonard"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Robert McCoy"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Charles Brookwell, Jr."
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Francis Long"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Robin Oxenford"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Harry Brown, II"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Edmond Lonsky"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "William Prati"
+            }, 
+            {
+                "high_skull": 1, 
+                "name": "Frank Burns"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "William MacKenzie"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "John Yewell, Jr."
+            }
+        ], 
+        "year": 1949
+    }, 
+    {
+        "skulls": [
+            {
+                "high_skull": 0, 
+                "name": "Alfred Aronowitz"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Arthur Hough, Jr."
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Henry Pryor"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Robert Cyphers"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Stephen Kalapos"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Jerome Raphel"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Josef Grossman"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Norman Ledgin"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "G. Stewart Ray"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "William Hatchett"
+            }, 
+            {
+                "high_skull": 1, 
+                "name": "Henry Lowenstern"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "David Whinfrey"
+            }
+        ], 
+        "year": 1950
+    }, 
+    {
+        "skulls": [
+            {
+                "high_skull": 0, 
+                "name": "Frank Adams"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "John Kahn"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Leon Root"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "John Behrend"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Herbert Klein"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Richard Seclow"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Andrew Dundon"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Ariel Landy"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Ivan Sherman"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Norman Graf"
+            }, 
+            {
+                "high_skull": 1, 
+                "name": "Edward Mahoney"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Edward Swartz"
+            }
+        ], 
+        "year": 1951
+    }, 
+    {
+        "skulls": [
+            {
+                "high_skull": 0, 
+                "name": "Seymour Chase"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Herbert Glickman"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Alexander Levy, Jr."
+            }, 
+            {
+                "high_skull": 1, 
+                "name": "Anthony Cillo"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Jerome Goldstein"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "James Monahan"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Robert Comstock"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Anthony Iannarone"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "John Schuck"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Walter Dex"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "George Jorgensen"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Henry Steiner, II"
+            }
+        ], 
+        "year": 1952
+    }, 
+    {
+        "skulls": [
+            {
+                "high_skull": 0, 
+                "name": "Charles Carroll"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Willis Howard, Jr."
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Harold Packer"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Morton Jay Chiat"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Robert Husted"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Morton Shlossman"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "James P. Craig"
+            }, 
+            {
+                "high_skull": 1, 
+                "name": "Alan Illig"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Robert Stites"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Arthur Crooke"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Myron Linder"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "John Zimmermann"
+            }
+        ], 
+        "year": 1953
+    }, 
+    {
+        "skulls": [
+            {
+                "high_skull": 0, 
+                "name": "Paul Baba"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Charles Driscoll"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Hilliard Farber"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Edwin Be"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Edwin Duda"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Arthur Kamin"
+            }, 
+            {
+                "high_skull": 1, 
+                "name": "John Byrne, Jr."
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Donald Duncan"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "John Kraushaar, Jr."
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Bruce Clymer"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Melvin Silver"
+            }
+        ], 
+        "year": 1954
+    }, 
+    {
+        "skulls": [
+            {
+                "high_skull": 0, 
+                "name": "Frederic Adams"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Anthony Isidore"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Thomas Prisk, Jr."
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "William Eastman"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Ronald Mastrolia"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Albert Schumann"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Karl Engelman"
+            }, 
+            {
+                "high_skull": 1, 
+                "name": "Robert McBride"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Allan Swenson"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Robert Fleckenstein"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Carl Moore"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Bert Vorchheimer"
+            }
+        ], 
+        "year": 1955
+    }, 
+    {
+        "skulls": [
+            {
+                "high_skull": 0, 
+                "name": "Stanley Cohen"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Matthew Fox"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Edward Mank"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Frederick Durand"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Francis Going, Jr."
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Phillip Martino"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "John Featherstone"
+            }, 
+            {
+                "high_skull": 1, 
+                "name": "Vinton Gwinn"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Charles Molnar"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Robert Fisher"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Robert Kelly"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "John Sullivan, Jr."
+            }
+        ], 
+        "year": 1956
+    }, 
+    {
+        "skulls": [
+            {
+                "high_skull": 0, 
+                "name": "Walter Cummins"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Donald Gucker"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "George Ohye"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "John Daut"
+            }, 
+            {
+                "high_skull": 1, 
+                "name": "John Hurley"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "John Pignataro"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Ernest Docs"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Eugene Lindacher"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "John Riordan, Jr."
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Normal Gaines"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "LeRoy Lusardi"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "H. Joseph Volz"
+            }
+        ], 
+        "year": 1957
+    }, 
+    {
+        "skulls": [
+            {
+                "high_skull": 1, 
+                "name": "Sheldon Baker"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "George Lukac"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Marc Salisch"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "William Bohus"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Robert Lusardi"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Richard Velt"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "William Farquharson, Jr."
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "David Pooley"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Robert Whelan"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Stephen Fisher"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Richard Robinson"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "William Whitacre"
+            }
+        ], 
+        "year": 1958
+    }, 
+    {
+        "skulls": [
+            {
+                "high_skull": 0, 
+                "name": "William Austin, Jr."
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "George Graulich"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Stephen Moses"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Charles Crosby"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Peter Knauss"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Rubin Rabinovitz"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Donald Daiker"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Alonzo Lawrence"
+            }, 
+            {
+                "high_skull": 1, 
+                "name": "James Toscano"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Robert Gasser"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Frederic Linch"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Jerome Wichelns"
+            }
+        ], 
+        "year": 1959
+    }, 
+    {
+        "skulls": [
+            {
+                "high_skull": 0, 
+                "name": "Stephen Beal"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Henry Morgan"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Bernard Shapiro"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Jean Franzoi"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Neil Reiseman"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "George Sipel"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Thomas Grifa"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "David Ressler"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Martin Stempel"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Martin Halpern"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Richard Sandler"
+            }, 
+            {
+                "high_skull": 1, 
+                "name": "Edward Weber, III"
+            }
+        ], 
+        "year": 1960
+    }, 
+    {
+        "skulls": [
+            {
+                "high_skull": 0, 
+                "name": "Paul Benke"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Kenneth Iuso"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Howard Phillips"
+            }, 
+            {
+                "high_skull": 1, 
+                "name": "Edward Cubberley"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "William Liss"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Alexander Rizzer"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Cary Hardy"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Frederick Mayer"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Charles Torpy"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "George Hohweiler"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Douglas Patton"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "John Travis"
+            }
+        ], 
+        "year": 1961
+    }, 
+    {
+        "skulls": [
+            {
+                "high_skull": 0, 
+                "name": "James Coffee"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Donald Lehman"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "James Richardson"
+            }, 
+            {
+                "high_skull": 1, 
+                "name": "Charles Cottingham"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "T. David Mazzarella"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Walter Schmidt, Jr."
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Walter Eissmann"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Arthur McDermott"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Thomas Snyder"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Eric Gerst"
+            }, 
+            {
+                "high_skull": 1, 
+                "name": "Samuel Mudie"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "James Wakeling"
+            }
+        ], 
+        "year": 1962
+    }, 
+    {
+        "skulls": [
+            {
+                "high_skull": 0, 
+                "name": "William Craft"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Nikos Pharasles"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "William Ruggiero"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "George Fosdick"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Charles Price"
+            }, 
+            {
+                "high_skull": 1, 
+                "name": "Edwin Stern"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Russell Goldberger"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Jeffrey Reinhardt"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Lee Trucker"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Robert Laudicina"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Robert Rosen"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Bernard Van Lenten, Jr."
+            }
+        ], 
+        "year": 1963
+    }, 
+    {
+        "skulls": [
+            {
+                "high_skull": 0, 
+                "name": "David Ben-Asher"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Howard Freilich"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Jon Paulson"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Donald Brevet"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Bruce Goldstein"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Richard Standish"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Joseph Bujak"
+            }, 
+            {
+                "high_skull": 1, 
+                "name": "Warren Howell, Jr."
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Richard Waugh"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Richard Cooper"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Kenneth McDermott"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Robert Woodworth"
+            }
+        ], 
+        "year": 1964
+    }, 
+    {
+        "skulls": [
+            {
+                "high_skull": 0, 
+                "name": "Stephen Bosin"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Robert Mudie"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Joseph Sahid"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Robert Carline"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Robert Norton"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Barry Samuels"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Savatore Dizzia"
+            }, 
+            {
+                "high_skull": 1, 
+                "name": "Wayne Pines"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Michael Wiener"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Joseph Foyle, Jr."
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Robert Posey"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "William Wigder"
+            }
+        ], 
+        "year": 1965
+    }, 
+    {
+        "skulls": [
+            {
+                "high_skull": 0, 
+                "name": "Joseph Carfora"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "John Le Veck"
+            }, 
+            {
+                "high_skull": 1, 
+                "name": "Leo Ribuffo"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Edward Dauber"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Stanley Menker"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "George Savidge"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Richard Hersh"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Michael Perlin"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Thomas Sitzmann"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Thomas Kennedy"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Paul Popson"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "George Wieder"
+            }
+        ], 
+        "year": 1966
+    }, 
+    {
+        "skulls": [
+            {
+                "high_skull": 0, 
+                "name": "Gary Baker"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Donald Kaplan"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Lon Pinkowitz"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "James Bunting"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Robert Lloyd"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Alan Simms (Simkowitz)"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Gary Falkin"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "David Monfried"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Barney Skladany, Jr."
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Henry Flanagan, Jr."
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Peter Navolanic, III"
+            }, 
+            {
+                "high_skull": 1, 
+                "name": "Garth Weber"
+            }
+        ], 
+        "year": 1967
+    }, 
+    {
+        "skulls": [
+            {
+                "high_skull": 0, 
+                "name": "Noha Applebaum"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Richard Harley"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Hugh Levine"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "William Benz"
+            }, 
+            {
+                "high_skull": 1, 
+                "name": "Jerrald Hochman"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Elijah Miller, Jr."
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Bruce Bingham"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Andrew Jacobs"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Robert Peckar"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "John Darr, III"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Raymond Korona"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Joseph Urbanick"
+            }
+        ], 
+        "year": 1968
+    }, 
+    {
+        "skulls": [
+            {
+                "high_skull": 0, 
+                "name": "Ralph Acquaro"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Henry Haverstick, III"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Steven Ostro"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Richard Askin, Jr."
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Bruce Hubbard"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "William Schaeffer"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Douglas Brittelle"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Laurence Kaiser"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "James Schmidt"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Jerome Harris"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Owen Ullman"
+            }
+        ], 
+        "year": 1969
+    }, 
+    {
+        "skulls": [
+            {
+                "high_skull": 0, 
+                "name": "Gregory Allen"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Janine Lopiano-Misdom"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Reynard Ramsey"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "James Berman"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Edward McCarthy"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Michael Shenberg"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Bradford Burkett"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Daniel Mitchell, III"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Patrick Sinko"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Janine Davitian"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Elyse Napoli"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Bruce Stockler"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Ian Heller"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Timothy Peterson"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Randall Wilk"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "David Katz"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Gabrielle Wolohojian"
+            }
+        ], 
+        "year": 1982
+    }, 
+    {
+        "skulls": [
+            {
+                "high_skull": 0, 
+                "name": "Clyde Allison, Jr."
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Erin Glynn"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Robert Richardson III"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "John Croot, Jr."
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Susan Kennedy"
+            }, 
+            {
+                "high_skull": 1, 
+                "name": "Sherry Schweighardt"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "William Diana"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Christopher Mahon"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Michael Senz"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Donna Douglas"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Robert Meneve"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Howard Shaw"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Barry Fiedel"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Nancy (Latawiec) Nardi"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Doron Shemesh"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Kenneth Fiorelli"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Howard Pulchin"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Roseann (Mahoney) Van Nest"
+            }
+        ], 
+        "year": 1983
+    }, 
+    {
+        "skulls": [
+            {
+                "high_skull": 0, 
+                "name": "William Bonnell"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "George Duebner"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Shelby Rogers"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Gerard Brew"
+            }, 
+            {
+                "high_skull": 1, 
+                "name": "Karen Federman"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Neil Rosenberg"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Steven Bruman"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Ellen-Sue (French) Ryan"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Pamela Thomas"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Regina Carelli"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Philip Green"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "William Warnick"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Anthony Ceccon"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "David Hutt"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Efrot Weiss"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Darnell Davis"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Stephen Matha"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Majorie (Snyder) Wold"
+            }
+        ], 
+        "year": 1984
+    }, 
+    {
+        "skulls": [
+            {
+                "high_skull": 0, 
+                "name": "Michael Besso"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Mary Elizabeth Geffert"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Michael Rettig"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Lisa (Bowman) Merkel"
+            }, 
+            {
+                "high_skull": 1, 
+                "name": "Craig Hillard"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Robert Rizick"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Gerald Crisci"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Lisa James-Beavers"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Nanette (Shoenfelt) Arenas"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Cheryl (Arnold) Rachmann"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Magda Martinez"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Jay Smith"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Thomas Davis"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Kelly McCoy"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Eric Stander"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Yaser El Menshawy"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "David Molotsky"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Douglas Wong"
+            }
+        ], 
+        "year": 1985
+    }, 
+    {
+        "skulls": [
+            {
+                "high_skull": 0, 
+                "name": "Glenn Arnold"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Gregory Erman"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Reuben Schechter"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Joseph Bernisky III"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Robert Friant, Jr."
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "William Scott"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Ben Blanquera"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Barry Hirsch"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Sheri Sternberg"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Carl Bloksberg"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Ann Marie (Feury) Kowalski"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Jay Suskind"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "William Cruz"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Roger Makar"
+            }, 
+            {
+                "high_skull": 1, 
+                "name": "Walter Williams"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Robert Dye"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Jeffrey Miller"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "John Zdebski"
+            }
+        ], 
+        "year": 1986
+    }, 
+    {
+        "skulls": [
+            {
+                "high_skull": 0, 
+                "name": "Maryann (Nelson) Apostle"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Dawn Hughes"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Stuart Rizick"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Peter Coakley"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Willian Lynch, Jr."
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Joseph Shannon"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Maria Fleming"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Brian McCann"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "James Suozzo"
+            }, 
+            {
+                "high_skull": 1, 
+                "name": "Robert Getzenberg"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Lowell Mitchell"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Filomena (Trujillo) Mealy"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Harold Glazer"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "James Murphy"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Thomas Vanderwater"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Rachel (Herman) Firschein"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Mark Pascal"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Andrew (Atlas) Wendler"
+            }
+        ], 
+        "year": 1987
+    }, 
+    {
+        "skulls": [
+            {
+                "high_skull": 0, 
+                "name": "Andrew Barroway"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Myriam Leveille"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Jonathan Persons"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Philip Bonello"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Phillip Linder"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Paul Rawicz"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Scott Bruner"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Sandra (Nachshen) Zwickel"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Todd Schneiderman"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Kelly Ann (Water) Cotlegno"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Amy Nelson"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Aditi Shah"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Elizabeth Farley"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Stephen Ostergren"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Daniel Vicencio"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Eric Guether"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Paul Parseghian"
+            }, 
+            {
+                "high_skull": 1, 
+                "name": "Stacey Woolfork-Brown"
+            }
+        ], 
+        "year": 1988
+    }, 
+    {
+        "skulls": [
+            {
+                "high_skull": 1, 
+                "name": "William B. Brahms"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Richard Grip"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Michael Minaides"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Maryanne Daly-Doran"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Tomas Hazleton"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Deborah Schechter"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Loren Distler"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Donna Hughes"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "William Smith"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Anne Donovan"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Patricia (Kennelly) Smigielski"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Steven Tardy"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Robert Dudas"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Sir Raymond G.M. Kottler"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Garrett Turner"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Joseph Giegerich"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Shawn Laws"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Peter Craig Warman"
+            }
+        ], 
+        "year": 1989
+    }, 
+    {
+        "skulls": [
+            {
+                "high_skull": 0, 
+                "name": "Linda (Calabrese) McElveen"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Stuart Heiser"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Mathew O'Brien"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Steven Chranowski"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Richard Hughes"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Kelly (Pratt) Dabruzzo"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Darryl Edelstein"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Lillian Jackson"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Scott Louis Weber"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Dixon Fung"
+            }, 
+            {
+                "high_skull": 1, 
+                "name": "Praveen Jeyarajah"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Kelly Whiteside"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Stuart Daniel Gittelman"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Kevin Kelly"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Sara (Zackheim) Adams"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Laura (Haelig) Denner"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "David Kirtman"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Geoffrey Zoeller, Jr."
+            }
+        ], 
+        "year": 1990
+    }, 
+    {
+        "skulls": [
+            {
+                "high_skull": 0, 
+                "name": "Wayne Abbott"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Daria De Noia"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Nnamdi Pole"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Jay Bernhardt"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Rebekah Diller"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Darren Rice"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Hany Brollesy"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Michael Miller"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Kristin (Rupp) Deckert"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "David Buckner"
+            }, 
+            {
+                "high_skull": 1, 
+                "name": "Thomas Mueller"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Kim Simmons"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Steven Craig"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "George Finley Parker, Jr."
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Melissa (Spirt) Buckner"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Cheryl Cucinello"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Mukesh Patel"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Karen Louise Valli"
+            }
+        ], 
+        "year": 1991
+    }, 
+    {
+        "skulls": [
+            {
+                "high_skull": 0, 
+                "name": "Roxanne Black"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Jodi Linder-Radosh"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Patrick Prickett"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Thomas Carnegie"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Eric Luper"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Matthew McLean Rabin"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "David Cingar"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Ravi Bob Motwani"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Robert Richardson"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Cheryl (Corej) Nadzam"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Anne Milgram"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Joshua Rolnick"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Alexander Khammar"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "David Pantos"
+            }, 
+            {
+                "high_skull": 1, 
+                "name": "Dan Ronnen"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Robert Leone"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Ralph Pantozz"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Jonathan Springer"
+            }
+        ], 
+        "year": 1992
+    }, 
+    {
+        "skulls": [
+            {
+                "high_skull": 1, 
+                "name": "Susannah Baker"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Darryl Jefferson"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Kevin Roman Pirelli"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Aney Chandy"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Jeffrey Lehrer"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Alex Podchaski"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Brooke Conover"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Marc Leonard"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Rebecca Quick"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "James Dale"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Martin Martino"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Robert Ritter"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Lisa Davidson"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Lawrence Phillips"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Eileen Samolsky"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Lami Garber"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Randal Pinkett"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Kimberly Staton"
+            }
+        ], 
+        "year": 1993
+    }, 
+    {
+        "skulls": [
+            {
+                "high_skull": 0, 
+                "name": "Denise Alvarez"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "David Ira Grazian"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "David McKnight"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Jeffrey Cioletti"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Sean Haney"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Ifeoma Nwankwo"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Valerie Eviner"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Jennifer Horn"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Dana Rakvica"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Adam Logan Fulrath"
+            }, 
+            {
+                "high_skull": 1, 
+                "name": "Lauren Kaplan"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Jeffrey Robinson"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Bryant Gonzalez"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Michele Landman"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Rebecca Rolnick"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Jason Gottlieb"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Stephen Mathai"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Robert Zamitis"
+            }
+        ], 
+        "year": 1994
+    }, 
+    {
+        "skulls": [
+            {
+                "high_skull": 0, 
+                "name": "Rachael Ellenda Ankrah"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Justine Hernandez"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Kim Robinson"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Jeffrey Bauman"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Paul Lomelo III"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Manuel Rosa"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "James Bergin"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Amanda Tara Perez"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Jeremy Shapiro"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Janice D'Arcy"
+            }, 
+            {
+                "high_skull": 1, 
+                "name": "Dustin Perun"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Curtis Tao"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Ram Devineni"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Daniel Roberts, Jr."
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Daniel Alan Terner"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Winsome Gayle"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Kenneth Roberts"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Eric Vieira"
+            }
+        ], 
+        "year": 1995
+    }, 
+    {
+        "skulls": [
+            {
+                "high_skull": 0, 
+                "name": "Kathleen Agno"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Shawn Escoffrey"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Katiusca Polanco"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Karen Auerbach"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Jonathan Glacken"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Edward Potosnak, III"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Anna-Liisal Aunio"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Elizabeth Hanson"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Amy Reynders"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Daniel Baker"
+            }, 
+            {
+                "high_skull": 1, 
+                "name": "Mia Henry"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Arlene Runyon"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Stephen Capitani"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Alice Lee"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Avner Shemi"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Manpreet Singh Dhanjal"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Paul Massey"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Joshua P. Weiss"
+            }
+        ], 
+        "year": 1996
+    }, 
+    {
+        "skulls": [
+            {
+                "high_skull": 0, 
+                "name": "Rita Anighoro"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Mindy Gensler"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Dave Otterburn"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Jessica Appelbaum"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Ramsey Homsany"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Scott Pashman"
+            }, 
+            {
+                "high_skull": 1, 
+                "name": "Greg Bedard"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Elie Honig"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Vanessa Quijano"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Tanya Bhattacharjee"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Stephanie Ingersoll"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Maritza Raimundi"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Jeannine DeFoe"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Dena Lacara"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Francine Serafin"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Joe Fernandez"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Carolyn Lagermasini"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Stephanie Uhlman"
+            }
+        ], 
+        "year": 1997
+    }, 
+    {
+        "skulls": [
+            {
+                "high_skull": 0, 
+                "name": "Neysa Alsina"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Catherine Gristina"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Daysi Mejia"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Matthew Briggs"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Matthew Hooban"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Heather O'Neill"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Alan Brian Cardenas"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Michele Horowitz"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Jeffrey Selinger"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Sarah Cervenak"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Sanghamitra Kalita"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Neha Shah"
+            }, 
+            {
+                "high_skull": 1, 
+                "name": "George Diaz"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Natasha Lewis"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Lisa Togneri"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Kristen Gillio"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Michael Mansour"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Joanna Varon"
+            }
+        ], 
+        "year": 1998
+    }, 
+    {
+        "skulls": [
+            {
+                "high_skull": 0, 
+                "name": "Alexander D'Jamoos"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Daniel Horowitz"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Keith Sattely"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Victor De La Paz"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Milady Murillo"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Stephen Schwartz"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Allison Gertel"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Jayne Pedrick"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Andrea Simoes"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Marques Harper"
+            }, 
+            {
+                "high_skull": 1, 
+                "name": "Michelle Ricardo"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Tony Solimine"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Hans William Hogan"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Jill Richmond"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Amy Warschawski"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Nadim Homsany"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Laurence Ring"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Ayesha Williams"
+            }
+        ], 
+        "year": 1999
+    }, 
+    {
+        "skulls": [
+            {
+                "high_skull": 0, 
+                "name": "Christopher Ananian"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Elizabeth Haines"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Donna Johnson"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Janak Bhimani"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Jonathan Horowitz"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "David Kanarek"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Rachelle Gandica"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Charles Sage Lichtenwalner"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Ellie Kho"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Adriana Garriga-Lopez"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Robert Linden"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Rachel Leventhal"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Brian Grossman"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Annette Polidura"
+            }, 
+            {
+                "high_skull": 1, 
+                "name": "Nancy Scheraga"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Dominic Guerrini"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Jason Redd"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Brian Sokalsky"
+            }
+        ], 
+        "year": 2000
+    }, 
+    {
+        "skulls": [
+            {
+                "high_skull": 0, 
+                "name": "Kerri Allen"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Seth Dembowitz"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Kien Shimabukuro"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Tania Armellino"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Sunit Jariwala"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Nabil Shurafa"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Laura Babcock"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Niyati Kothary"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Margaret Stevens"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Amy Bauer"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Daina Lieberman"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Jessica Stillman"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Matthew Cirri"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Paul Nichols"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Shannon Thomas"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Jeffrey Cohen"
+            }, 
+            {
+                "high_skull": 1, 
+                "name": "Carla Shalaby"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Elizabeth Weill-Greenberg"
+            }
+        ], 
+        "year": 2001
+    }, 
+    {
+        "skulls": [
+            {
+                "high_skull": 0, 
+                "name": "Michele Bayer"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Sally Goldenberg"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Elora Mukherjee"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Amy DeRobertis"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Nadir Joshua"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "John Padden"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Abiola Fasina"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Michelle Kim"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Brian Pinto"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Mike Gadarian"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "James Kish"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Shankar Prasad"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Jay Gantz"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Anna Lewis"
+            }, 
+            {
+                "high_skull": 1, 
+                "name": "Christopher Rochford"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Jen Gertel"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Tracy Mehu"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Brooks Scott"
+            }
+        ], 
+        "year": 2002
+    }, 
+    {
+        "skulls": [
+            {
+                "high_skull": 0, 
+                "name": "Michelle Antwi"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Masayuki Gibson"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Steven Moore"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Jessica Belser"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Amanda Guido"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Ritu Pancholy"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Jessica Bodholt"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Theresa Hayes"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Timothy Reilly"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Arpan Dasgupta"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Elissa Lavorerio"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Naresh Tanna"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Shaun Rai Davis"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Peter Lembesis"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Zeba Wunderlich"
+            }, 
+            {
+                "high_skull": 1, 
+                "name": "Richard Edson"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Valovni Mendez"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Andrew Wynne"
+            }
+        ], 
+        "year": 2003
+    }, 
+    {
+        "skulls": [
+            {
+                "high_skull": 0, 
+                "name": "Rita Banerjee"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Neil Masangkay"
+            }, 
+            {
+                "high_skull": 1, 
+                "name": "Jason (JD) Shenton"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Ada Barlatt"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Michael Miranda"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Lamarr Tanner"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "George Boyan"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Lauren Oleykowski"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Sean Toole"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Harry Cicma"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Jennifer Pellegrine"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Minna Urrey"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Rachel Flaherty"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Dan Perkins"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Margaret Watson"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Karen James"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Squire Servance"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Jonathan Werner"
+            }
+        ], 
+        "year": 2004
+    }, 
+    {
+        "skulls": [
+            {
+                "high_skull": 1, 
+                "name": "Lindsay Faith Agnew"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Mark Klee"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Cory Rodriguez"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Carl G. Archer"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "John Koblin"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Vivek G. Sahani"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Alison Buckley"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Steven Lerer"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Chris Stipeck"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Steven Cavanaugh"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Lauren Michaels"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Michelle Tuzzolino"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Brian Clopp"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Joseph Nedick"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Amy Weiss"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Staci Hersh"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Marilyn Novell"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Sarah Weiss"
+            }
+        ], 
+        "year": 2005
+    }, 
+    {
+        "skulls": [
+            {
+                "high_skull": 0, 
+                "name": "Tunji Barlatt"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Brent Johnson"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Emily Conger"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Katie Kyle"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Melissa Sullivan"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Karen Cornell"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "La'Nyia Odoms"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Allan Lew"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Desiree Vazquez"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Kelly Curtin"
+            }, 
+            {
+                "high_skull": 1, 
+                "name": "Alex Mahgoub"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Ryan Westman"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Chris Dovas"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Rajan Melwani"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Brad Whitson"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Cait Innerfield"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Allison Mueller"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Ashley Winter"
+            }
+        ], 
+        "year": 2006
+    }, 
+    {
+        "skulls": [
+            {
+                "high_skull": 0, 
+                "name": "Sharo Atmeh"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Jason Henderson"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Casey Morizio"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Brielle Bandola"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Lacey A. Kearney"
+            }, 
+            {
+                "high_skull": 1, 
+                "name": "Raja Murthy"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Katie Blouse"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Zeeshan Khan"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Desiree Pangilinan"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Alexsia Chan"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Betty Kong"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Benjamin Prager"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Dave Cole"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Tamarie Macon"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Joseph Wolf"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Jillian E. Curtis"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Donald Moore"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Ying Zheng"
+            }
+        ], 
+        "year": 2007
+    }, 
+    {
+        "skulls": [
+            {
+                "high_skull": 0, 
+                "name": "Shareif Abdelwahab"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Michael Hayoun"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Samantha Llanos"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Chinwe Acholonu"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Catherine Hyon"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Karina Martinez"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Alyse Albaum"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Edward Iglesia"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Josh Ontell"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Brian Brown"
+            }, 
+            {
+                "high_skull": 1, 
+                "name": "Wajdi Kanj"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Kevin Patrick"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Crystal Chen"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "James Kline"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Samantha Plasencia"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Kimberly Dickstein"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Krista Kohlmann"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Brian Spatocco"
+            }
+        ], 
+        "year": 2008
+    }, 
+    {
+        "skulls": [
+            {
+                "high_skull": 0, 
+                "name": "Dymir Arthur"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Anjlee Joshi"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Peter Murr"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Sarah Chapin"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Christopher Keating"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Natasha Piracha"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Paul Chiariello"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Corbin Laedlein"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Joseph Shure"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Crystal Coache"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Isaac Lim"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Avi Smolen"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Dale Cruzan"
+            }, 
+            {
+                "high_skull": 1, 
+                "name": "Christine Lomiguen"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Emma Waldron"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Janae Desire"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Nicholas Martucci"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Matt Zegarek"
+            }
+        ], 
+        "year": 2009
+    }, 
+    {
+        "skulls": [
+            {
+                "high_skull": 0, 
+                "name": "Christina (Amari) Awad"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Eric Gombo"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Simon Gordonov"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Danielle Henderson"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Christopher Jakubowski"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Kathryn (Jenkins) Cooke"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Jennifer Kanyamibwa"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Eric Knecht"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Russell Kohlmann"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Denise Letendre"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Stephanie Loh"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Esther Min"
+            }, 
+            {
+                "high_skull": 1, 
+                "name": "Julia Nutter"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Nilam Patel"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Adnan Riaz"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Lynn Schlie"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Richard Wells"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Benjamin West"
+            }
+        ], 
+        "year": 2010
+    }, 
+    {
+        "skulls": [
+            {
+                "high_skull": 0, 
+                "name": "Shariq Ahmad"
+            }, 
+            {
+                "high_skull": 1, 
+                "name": "Nicholas Apostolopoulos"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Karen Biala"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Gilbert Bonsu"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Wyatt Brady"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Nicholas Capuano"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Daniel Comito"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "James Hughes"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Robert Irven"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Wael Kanj"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Evelyn Litwinoff"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Sean Lo"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Caryn Miller"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "David Pal"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Marissa Rodriguez"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Yousef Saleh"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Shital Shah"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Amy Zhang"
+            }
+        ], 
+        "year": 2011
+    }, 
+    {
+        "skulls": [
+            {
+                "high_skull": 0, 
+                "name": "Zaid Abuhouran"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Zain Ahmad"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Syed Usman Ahmed"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Smeet Bhimani"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Matthew Cordeiro"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Julia Crimi"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Mary Diduch"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "William Eastman"
+            }, 
+            {
+                "high_skull": 1, 
+                "name": "Ela Joshi"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Kathryn Kroeper"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Matthew Leddin"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Sarah Morrison"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "David Park"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Jose Paulino"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Colleen Pictor"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Quadeer Porter"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Jennifer Przybylski"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Nathan Weiss"
+            }
+        ], 
+        "year": 2012
+    }, 
+    {
+        "skulls": [
+            {
+                "high_skull": 0, 
+                "name": "Tyler Barto"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Stephanie Buco"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "John Connelly"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Walter Fortson"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Melissa Gabilanes"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Rebecca Granet"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Colleen Grosse"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Sameen Jalal"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Devinn Lambert"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Kelvin Mei"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Julie Melchor"
+            }, 
+            {
+                "high_skull": 1, 
+                "name": "Neil Rajnikant Patel"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Olivia Prentzel"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Cesar Rainho"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Jay Ravaliya"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Matthew Ruffe"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Sonia Szczesna"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Kanak Verma"
+            }
+        ], 
+        "year": 2013
+    }, 
+    {
+        "skulls": [
+            {
+                "high_skull": 0, 
+                "name": "Jarrett Alderfer"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Samuel Berman"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Joseph Cashin"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Benjamin Chin"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Gregory Cui"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Kevin Dahaghi"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Judith Foo"
+            }, 
+            {
+                "high_skull": 1, 
+                "name": "Julia Gonski"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Zain Haq"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Aniket Kesari"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "David Kolchmeyer"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Philip Lubik"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Zachary Morrison"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Krupa Patel"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Andrea Poppiti"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Gabrielle Rossi"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Ashley So"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Pavel Sokolov"
+            }
+        ], 
+        "year": 2014
+    }, 
+    {
+        "skulls": [
+            {
+                "high_skull": 0, 
+                "name": "Kristine Baffo"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Anthony Covington"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Alexandra DeMaio"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Shelley Friedman"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Ryan Griffith"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Cierra Kaler-Jones"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Sharlina Keshava"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Allison Kroeper"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Kristal Mohammed"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Jacob Nieman"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Shane Patel"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Brooke Sassman"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Saad Shamshair"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Maryann Slater"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Gurpal Sran"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Sean Summers"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Camille Ungco"
+            }, 
+            {
+                "high_skull": 1, 
+                "name": "Vetri Velan"
+            }
+        ], 
+        "year": 2015
+    }, 
+    {
+        "skulls": [
+            {
+                "high_skull": 0, 
+                "name": "Aditya Parikh"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Anirudh Thuppul"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Anne Kavalerchik"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Bernadette Burke"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Brian Schendt"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Chisanim (Chisa) Egbelu"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Esther Kang"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Gailen Davis"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "James Liu"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Justin Lucero"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Kaustubh Deshpande"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Laura Gunderson"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Madison Little"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Marie Callahan"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Monika Juzwiak"
+            }, 
+            {
+                "high_skull": 1, 
+                "name": "Nicole Scaramella"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Riasat Zaman"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Zahra Khan"
+            }
+        ], 
+        "year": 2016
+    }, 
+    {
+        "skulls": [
+            {
+                "high_skull": 0, 
+                "name": "Tatianna Amatruda"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Michael Anderson"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Taylor Au"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Matthew Flanagan"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Gabriela Gabbidon"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Jason Gaines"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Antoinette Gingerelli"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Keerthana Hirudayakanth"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Priya Kantesaria"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Ajay Kashi"
+            }, 
+            {
+                "high_skull": 1, 
+                "name": "Justin Liu"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Julia Mendes"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Ellen Miller"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Nicole Ramos"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Daniel Reji"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Sivan Rosenthal"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Maegan Kae Sunaz"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Jaimie Swartz"
+            }
+        ], 
+        "year": 2017
+    }, 
+    {
+        "skulls": [
+            {
+                "high_skull": 0, 
+                "name": "Mohamed Asker"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Katerina Brandt"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Daniel Corey"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Evan Covello"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Sakib Jalal"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Megan Kenny"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Deep Kotadia"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Cindy Le"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Alexander Lopez-Perez"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Christopher Markosian"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Hope McCraw"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Anthony Mollica"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Thomas Monaghan"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Damilola Onifade"
+            }, 
+            {
+                "high_skull": 1, 
+                "name": "Cecilia Salazar"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Vineet Shenoy"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Trevor Stanton"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Nancy Wang"
+            }
+        ], 
+        "year": 2018
+    }
+]
