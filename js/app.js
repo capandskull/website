@@ -12,31 +12,36 @@ var csApp = angular.module("csApp", [
 	"MasterController",
 
 	// Service Providers
-	"DataService"
-
+	"DataService",
 ]);
 
 csApp.config(function($routeProvider) {
 
+	var base = "";
+
+	if(window.location.href.includes("github")) {
+		base = "/website";
+	}
+
 	$routeProvider
-		.when("/", {
+		.when(base + "/", {
 			templateUrl: "js/views/home.html",
 			controller: "HomeController"
 		})
-		.when("/skulls", {
+		.when(base + "/skulls", {
 			templateUrl: "js/views/skulls.html",
 			controller: "SkullsController"
 		})
-		.when("/history", {
+		.when(base + "/history", {
 			templateUrl: "js/views/history.html",
 			controller: "HistoryController"
 		})
-		.when("/apply", {
+		.when(base + "/apply", {
 			templateUrl: "js/views/apply.html",
 			controller: "ApplyController"
 		})
 		.otherwise({
-			redirect: "/"
+			redirect: base + "/"
 		});
 
 
