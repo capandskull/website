@@ -4,4 +4,6 @@ angular.module('MasterController', [])
 
 	$scope.title = null;
 
+	$scope.url = window.location.href;
+
 });

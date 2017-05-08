@@ -19,13 +19,19 @@
 							<tr ng-repeat="skull in year.skulls" ng-switch on=" $index % 3 ">
 
 								<td class="skull-names" ng-switch-when="0">
-									<span ng-if=" $index < year.skulls.length ">{{  year.skulls[$index].name }}</span>
+									<span ng-if="year.skulls[$index].high_skull == 1">*</span>
+									<span ng-if=" $index < year.skulls.length ">{{ year.skulls[$index].name }}</span>
+									<span ng-if="year.skulls[$index].high_skull == 1">*</span>
 								</td>
 								<td class="skull-names" ng-switch-when="0">
-									<span ng-if=" $index < year.skulls.length ">{{  year.skulls[$index + 1].name }}</span>
+									<span ng-if="year.skulls[$index + 1].high_skull == 1">*</span>
+									<span ng-if=" $index < year.skulls.length ">{{ year.skulls[$index + 1].name }}</span>
+									<span ng-if="year.skulls[$index + 1].high_skull == 1">*</span>
 								</td>
 								<td class="skull-names" ng-switch-when="0">
-									<span ng-if=" $index < year.skulls.length ">{{  year.skulls[$index + 2].name }}</span>
+									<span ng-if="year.skulls[$index + 2].high_skull == 1">*</span>
+									<span ng-if=" $index < year.skulls.length ">{{ year.skulls[$index + 2].name }}</span>
+									<span ng-if="year.skulls[$index + 2].high_skull == 1">*</span>
 								</td>
 							</tr>
 
