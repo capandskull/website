@@ -11,6 +11,7 @@ $ php -S localhost:8000
 ## Requested Features
 
 ### Primary
+- Jay: Feature parity with original site
 - Zaid, Tom, etc: Drop down menu should go back up after click
 - Zaid, Taylor: Sort skull names alphabetically by last name
 
