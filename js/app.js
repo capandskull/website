@@ -31,7 +31,8 @@ csApp.config(function($routeProvider) {
 			controller: "HistoryController"
 		})
 		.when("/apply", {
-			templateUrl: "js/views/apply.html",
+      //templateUrl: "js/views/apply.html",
+      templateUrl: "js/views/hale.html",
 			controller: "ApplyController"
 		})
 		.otherwise({
