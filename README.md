@@ -17,7 +17,7 @@ $ php -S localhost:8000
 
 ### Secondary
 - Filter by time or decade.
-- Menu disappears on mobile browser (from Facebook link) 
+- Menu disappears on mobile browser (from Facebook link)
 - Skull images on iPad (currently removed from mobile)
 
 ### Ternary
