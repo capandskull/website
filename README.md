@@ -4,7 +4,7 @@
 
 ```bash
 $ git clone git@github.com:capandskull/website.git
-$ cd cs-website/
+$ cd website/
 $ php -S localhost:8000
 ```
 

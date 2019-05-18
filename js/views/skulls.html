@@ -1,45 +1,45 @@
 <div class="black-background white-text">
-	<div class="container skulls-tables upper-padding center NoticiaText">
+  <div class="container skulls-tables upper-padding center NoticiaText">
 
-	  <div id="skull-page-div" class="col-md-8 col-md-offset-2">
+    <div id="skull-page-div" class="col-md-8 col-md-offset-2">
 
-		<section class="wow fadeIn animated">
-			<div class="hacker-list">
-				<div style="">
+    <section class="wow fadeIn animated">
+      <div class="hacker-list">
+        <div style="">
 
-					<div ng-repeat="year in data" id="year.year" class="year.year">
-						<span id="table-header">
-							<h1 class="section-header"  id=" {{ year.year }} " style="display:inline;padding-right:20px">Skulls of {{ year.year }}</h1> 
-						</span>
+          <div ng-repeat="year in data" id="year.year" class="year.year">
+            <span id="table-header">
+              <h1 class="section-header"  id=" {{ year.year }} " style="display:inline;padding-right:20px">Skulls of {{ year.year }}</h1> 
+            </span>
 
-						<br /><br />
+            <br /><br />
 
-						<table class="table skulls-table">
+            <table class="table skulls-table">
 
-							<tr ng-repeat="skull in year.skulls" ng-switch on=" $index % 3 ">
+              <tr ng-repeat="skull in year.skulls" ng-switch on=" $index % 3 ">
 
-								<td class="skull-names" ng-switch-when="0">
-									<span ng-if="year.skulls[$index].high_skull == 1">*</span>
-									<span ng-if=" $index < year.skulls.length ">{{ year.skulls[$index].name }}</span>
-									<span ng-if="year.skulls[$index].high_skull == 1">*</span>
-								</td>
-								<td class="skull-names" ng-switch-when="0">
-									<span ng-if="year.skulls[$index + 1].high_skull == 1">*</span>
-									<span ng-if=" $index < year.skulls.length ">{{ year.skulls[$index + 1].name }}</span>
-									<span ng-if="year.skulls[$index + 1].high_skull == 1">*</span>
-								</td>
-								<td class="skull-names" ng-switch-when="0">
-									<span ng-if="year.skulls[$index + 2].high_skull == 1">*</span>
-									<span ng-if=" $index < year.skulls.length ">{{ year.skulls[$index + 2].name }}</span>
-									<span ng-if="year.skulls[$index + 2].high_skull == 1">*</span>
-								</td>
-							</tr>
+                <td class="skull-names" ng-switch-when="0">
+                  <span ng-if="year.skulls[$index].high_skull == 1">*</span>
+                  <span ng-if=" $index < year.skulls.length ">{{ year.skulls[$index].name }}</span>
+                  <span ng-if="year.skulls[$index].high_skull == 1">*</span>
+                </td>
+                <td class="skull-names" ng-switch-when="0">
+                  <span ng-if="year.skulls[$index + 1].high_skull == 1">*</span>
+                  <span ng-if=" $index < year.skulls.length ">{{ year.skulls[$index + 1].name }}</span>
+                  <span ng-if="year.skulls[$index + 1].high_skull == 1">*</span>
+                </td>
+                <td class="skull-names" ng-switch-when="0">
+                  <span ng-if="year.skulls[$index + 2].high_skull == 1">*</span>
+                  <span ng-if=" $index < year.skulls.length ">{{ year.skulls[$index + 2].name }}</span>
+                  <span ng-if="year.skulls[$index + 2].high_skull == 1">*</span>
+                </td>
+              </tr>
 
-						</table>
-					</div>
+            </table>
+          </div>
 
-				</div>
-			</div>
-		</section>
-	</div>
+        </div>
+      </div>
+    </section>
+  </div>
 </div>
