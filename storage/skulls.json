@@ -5893,5 +5893,82 @@
             }
         ], 
         "year": 2019
+    },
+    {
+        "skulls": [
+            {
+                "high_skull": 0, 
+                "name": "Aasha Shaik"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Alyssa Rivers"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Ayesha Qureshi"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Benjamin Yang"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Brian Moran"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Charles de Agustin"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Daniel Milo"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Ezekiel Medina"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Hannah Calvelli"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Kaavya Kumar"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Krishna Gotur"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Larry Traylor"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Mansi Shah"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Marisa Joel"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Matthew Civile"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Riti Suresh"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Simone Brooks"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Tiffany Yang"
+            }
+        ], 
+        "year": 2020
     }
 ]
