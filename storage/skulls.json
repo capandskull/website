@@ -6006,7 +6006,7 @@
                 "name": "Ljubinka Gallardo"
             }, 
             {
-                "high_skull": 0, 
+                "high_skull": 1, 
                 "name": "Amna Khan"
             }, 
             {
@@ -6047,5 +6047,82 @@
             }
         ], 
         "year": 2021
+    },
+    {
+        "skulls": [
+            {
+                "high_skull": 0, 
+                "name": "Amna Ahmed"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Briana Rios"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Clairisse Whang"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Dahyo Coleman"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Modioluwamu Adegboyega"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Elizabeth Monkemeier"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Fiona Kniaz"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Hayley Slusser"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Javier Perez"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Jillian Bandel"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Juliet Petillo"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Justin Augustin"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Myles Johnson"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Tanvi Banota"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Toibat Ayankunbi"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Vahini Shori"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Victor Oginni"
+            }, 
+            {
+                "high_skull": 0, 
+                "name": "Zipporah Broughton"
+            }
+        ], 
+        "year": 2022
     }
 ]
