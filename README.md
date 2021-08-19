@@ -20,3 +20,7 @@ $ php -S localhost:8000
 
 ### Ternary
 - Alumni connection portal, map filters, etc.
+
+### Raw
+- The people have asked for a directory to submit and keep track of basics (location, affiliation, jobs, education, volunteer work) so that they can easily look up other skulls to connect with and (ideally) update their own information. 
+- I suppose I mean a forum - where we can have different threads (jobs/internships/moving to x location) that people can start conversations in. Basically (make sure Zuck isn’t standing over your shoulder reading this) to get those conversations off Facebook and into a place with more permanency so other people trying to go to law school can see how their peers did it and what advice they got. 

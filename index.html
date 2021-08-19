@@ -82,37 +82,47 @@
 
   <!-- Body -->
   <body id="page-top" data-spy="scroll" data-target=".navbar-fixed-top">
-    <a href="awards.html"></a>
 
-
-    <!-- Navigation-->
+    <!-- Navigation -->
     <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
         <div class="container">
             <!-- Navbar header -->
             <div class="navbar-header page-scroll">
                 <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
-                    <span class="sr-only">Toggle navigation</span>
+                    <span class="sr-only">
+                        Toggle navigation
+                    </span>
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand page-scroll NoticiaText" href="/">Cap & Skull</a>
+                <a class="navbar-brand page-scroll NoticiaText" href="/">
+                    Cap & Skull
+                </a>
             </div>
             <!-- Collapsible Navbar -->
             <div class="collapse navbar-collapse navbar-ex1-collapse">
                 <!-- Navbar left -->
                 <ul class="nav navbar-nav">
                     <li>
-                        <a class="page-scroll NoticiaText" href="#!/history" ui-sref="history" data-target="#history">History</a>
+                        <a class="page-scroll NoticiaText" href="#!/history" ui-sref="history" data-target="#history">
+                            History
+                        </a>
                     </li>
                     <li>
-                        <a class="page-scroll NoticiaText" href="#!/skulls" ui-sref="skulls" data-target="#skulls">Skulls</a>
+                        <a class="page-scroll NoticiaText" href="#!/skulls" ui-sref="skulls" data-target="#skulls">
+                            Skulls
+                        </a>
                     </li>
                     <li>
-                        <a class="page-scroll NoticiaText" href="#!/events" ui-sref="events" data-target="#events">Events</a>
+                        <a class="page-scroll NoticiaText" href="#!/events" ui-sref="events" data-target="#events">
+                            Events
+                        </a>
                     </li>
                     <li>
-                        <a class="page-scroll NoticiaText" href="#!/120" ui-sref="120" data-target="#120">Founder's Day</a>
+                        <a class="page-scroll NoticiaText" href="#!/120" ui-sref="120" data-target="#120">
+                            Founder's Day
+                        </a>
                     </li>
                 </ul>
                 <ul class="nav navbar-nav">
@@ -122,12 +132,19 @@
                             <div class="form-group" style="margin:auto;display:inline-block !important;margin-right:5px">
                                 <input type="number" id="skull-year" class="form-control center" placeholder="1900" min="1900">
                             </div>
-                            <button type="submit" id="skull-search" class="btn btn-default"><span class="glyphicon glyphicon-search" aria-hidden="true"></span></button>
+                            <button type="submit" id="skull-search" class="btn btn-default">
+                                <span class="glyphicon glyphicon-search" aria-hidden="true">
+                                </span>
+                            </button>
                             <span style="margin-left:5px">
-                                <button class="btn btn-danger top">Back to Top</button>
+                                <button class="btn btn-danger top">
+                                    Back to Top
+                                </button>
                             </span>
                             <span>
-                                <button type="button" class="btn btn-warning" data-toggle="modal" data-target="#myModal">Honorary Skulls</button>
+                                <button type="button" class="btn btn-warning" data-toggle="modal" data-target="#myModal">
+                                    Honorary Skulls
+                                </button>
                             </span>
                         </div>
                     </li>
@@ -137,12 +154,23 @@
                         <div ng-if="$rootScope.title == 'Skulls'" class="navbar-form navbar-left wow fadeIn animated">
                         </div>
                     <li>
-                        <a class="NoticiaText-Bold apply-now" href="https://docs.google.com/forms/d/e/1FAIpQLScZ05dm17X0ET_tVF0B3ezUfyQc_u5hZGtVyeqNMYPJ1TUFFQ/viewform" target="_BLANK">Apply Now!</a> <!-- For just the app -->
-                        <!--a class="NoticiaText-Bold apply-now" href="#!/apply" ui-sref="apply" data-target="#apply">Apply for the Richard M. Hale Cap & Skull Memorial Scholarship</a--> <!-- For the Hale app -->
+                        <!-- For the standard app -->
+                        <!--a class="NoticiaText-Bold apply-now" href="https://docs.google.com/forms/d/e/1FAIpQLScZ05dm17X0ET_tVF0B3ezUfyQc_u5hZGtVyeqNMYPJ1TUFFQ/viewform" target="_BLANK">
+                            Apply Now!
+                        </a--> 
+
+                        <!-- For the Hale Scholarship app -->
+                        <a class="NoticiaText-Bold apply-now" href="#!/hale" ui-sref="hale" data-target="#hale">
+                            Apply for the Richard M. Hale Cap & Skull Memorial Scholarship
+                        </a>
                     </li>
-                    <!--<li>
-                        <a class="NoticiaText" target="_BLANK" href="https://securelb.imodules.com/s/896/Foundation/hybrid/oneCol.aspx?sid=896&gid=1&pgid=2138&bledit=1&dids=1028.1029.1030.1031&sort=1">Support</a>
-                    </li>-->
+                    <!--
+                    <li>
+                        <a class="NoticiaText" target="_BLANK" href="https://securelb.imodules.com/s/896/Foundation/hybrid/oneCol.aspx?sid=896&gid=1&pgid=2138&bledit=1&dids=1028.1029.1030.1031&sort=1">
+                            Support
+                        </a>
+                    </li>
+                    -->
                 </ul>
             </div>
         </div>

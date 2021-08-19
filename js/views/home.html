@@ -15,28 +15,31 @@
 </style>
 
 <!-- Intro Section -->
-<section id="intro" class="intro-section" style="padding-top: 0px !important;overflow:hidden">
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-12">
-                <div id="intro-media" class="media" style="width:100%;margin-top:50px;padding-top: 0px !important">
-                  <div class="media-left media-middle">
-                    <a href="#">
-                      <img id="skull-picture" class="media-object" src="/img/kp-skulls/005.png" alt="...">
-                    </a>
-                  </div>
-                  <div class="media-body">
-                    <!-- <h1 class="header home-header DW-Pica" style="margin-top: 0px; font-size:28px">Congratulations to <div id="cap-skull-red" style="font-size:48px;color:red;margin-top:15px;margin-bottom:15px">Anya Gips &<br>Priti Kantesaria</div> on winning the 2018 Richard M. Hale <br>Cap & Skull Memorial Scholarship.</h1> -->
-                    <h1 class="header home-header DW-Pica" style="margin-top: 0px; font-size:28px"><div id="cap-skull-red" class="Santos" style="font-size:96px;color:red;margin-bottom:15px">Cap & Skull<br /></div>Herein lie the legacies of Rutgers' most loyal Sons and Daughters</h1
-                  </div>
-                </div>
-                <div id="continue-arrow" class="arrow" style="display:none">
-
-                </div> 
-            </div>
-
-        </div>
+<section id="intro" class="intro-section" style="padding-top: 200px !important; overflow:hidden">
+  <div class="container">
+    <div class="row">
+      <div class="col-6">
+        <a href="#">
+          <img id="skull-picture" class="media-object" src="/img/kp-skulls/005.png" alt="...">
+        </a>
+      </div>
     </div>
+      <div class="row">
+        <div class="col-sm-4"></div>
+        <div class="col-sm-4">
+          <h1 class="header home-header DW-Pica" style="margin-top: 0px; font-size:28px">
+            <div id="cap-skull-red" class="Santos">
+              Cap & Skull
+            </div>
+            <br />
+            Herein lie the legacies of Rutgers' most loyal Sons and Daughters
+          </h1>
+        </div>
+        <div class="col-sm-4"></div>
+      </div>
+      <div id="continue-arrow" class="arrow" style="display:none">
+      </div> 
+  </div>
 </section>
 
 
@@ -47,13 +50,32 @@
                 <div class="col-lg-12 wow fadeIn animated" data-wow-duration="3s">
                     <h1 class="section-header NoticiaText">Est. 1900<br />---</h1>
                     <div class="col-md-8 col-md-offset-2 justify NoticiaText">
-                      Uniting leaders with diverse opinions and ideas from different campus and college constituencies, members of Cap & Skull work together to improve campus relations and give back to the Rutgers University community.
-                      <br /><br />
-                      Founded at Rutgers College on January 18, 1900, Cap & Skull is an organization that, by rewarding excellence in academics, athletics and the arts, has fostered achievement at Rutgers and beyond. For over a century, its members have set a model of leadership for the University through their actions as individuals and as an organization.
-                      <br /><br />
-                      Of the 31,500 undergraduates who attend Rutgers University, New Brunswick each year, only eighteen will be tapped for membership into Cap & Skull at the end of their junior year. Attachments between members are strong and enduring. Once you're a member, you're a member for life. 
-                      <br /><br />
-                      A student must prove themselves in the eyes of not only fellow students, but specifically in the eyes of the reigning leaders of the college. Selection is not based simply upon positions obtained during one's college career, but by the demonstrations of leadership and character.
+                      Uniting leaders with diverse opinions and ideas from different 
+                      campus and college constituencies, members of Cap & Skull work 
+                      together to improve campus relations and give back to the 
+                      Rutgers University community.
+                      <br />
+                      <br />
+                      Founded at Rutgers College on January 18, 1900, Cap & Skull is an 
+                      organization that, by rewarding excellence in academics, athletics 
+                      and the arts, has fostered achievement at Rutgers and beyond. For 
+                      over a century, its members have set a model of leadership for the 
+                      University through their actions as individuals and as an 
+                      organization.
+                      <br />
+                      <br />
+                      Of the 31,500 undergraduates who attend Rutgers University, New 
+                      Brunswick each year, only eighteen will be tapped for membership 
+                      into Cap & Skull at the end of their junior year. Attachments 
+                      between members are strong and enduring. Once you're a member, 
+                      you're a member for life. 
+                      <br />
+                      <br />
+                      A student must prove themselves in the eyes of not only fellow 
+                      students, but specifically in the eyes of the reigning leaders 
+                      of the college. Selection is not based simply upon positions 
+                      obtained during one's college career, but by the demonstrations 
+                      of leadership and character.
                     </div>
                 </div>
             </div>
@@ -65,22 +87,18 @@
       $(document).ready(function() {
         $("#ourEmAddr").attr("href", "mail" + "to:" + "ru." + "capa" + "ndskull@g" + "mail.c" + "om");
         var windowHeight = $(window).height();
-        $("#skull-picture").css('max-height', windowHeight - windowHeight * 0.20);
+        $("#skull-picture").css('max-height', windowHeight - windowHeight * 0.5);
         $("#skull-picture").attr("data-wow-duration", "5s");
         $("#skull-picture").addClass('wow fadeIn animated');
-        
-        if(typeof window.orientation === 'undefined') {
-          $(".home-header").css('margin-top', (parseInt(windowHeight/2) - $(".home-header").height()) + "px");
-        }
-        else {
-          $(".home-header").css('margin-top', "10px");
-          $("#continue-arrow").fadeIn();
-        }
+        $("#continue-arrow").fadeIn();
         $(".home-header").addClass('wow fadeIn animated');
         $(".home-header").attr("data-wow-duration", "5s");
-        // $("#continue-arrow").addClass("animated infinite bounce");
+        $("#continue-arrow").addClass("animated infinite bounce");
         $("#continue-arrow").attr("data-wow-duration", "5s");
-        
+        $("#cap-skull-red").css("font-size", "96px");
+        $("#cap-skull-red").css("color", "red");
+        $("#cap-skull-red").css("margin-bottom", "15px");
+
         if(typeof window.orientation === 'undefined') {
           $("#skull-picture").show();
           $(".home-header").show();
@@ -121,7 +139,7 @@
         $('body, html').animate({
           scrollTop: $("#about").offset().top - 60
         }, 1000, function() {
-          // alert("Done!");
+
         });
       });
       $(window).on("orientationchange", function() {

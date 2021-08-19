@@ -34,8 +34,7 @@ csApp.config(function($routeProvider) {
       templateUrl: "js/views/120.html",
       controller: "120Controller",
     })
-    .when("/apply", {
-      //templateUrl: "js/views/apply.html",
+    .when("/hale", {
       templateUrl: "js/views/hale.html",
       controller: "ApplyController"
     })
