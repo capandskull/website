@@ -6111,7 +6111,7 @@
                 "name": "Toibat Ayankunbi"
             }, 
             {
-                "high_skull": 0, 
+                "high_skull": 1, 
                 "name": "Vahini Shori"
             }, 
             {
@@ -6124,5 +6124,82 @@
             }
         ], 
         "year": 2022
+    },
+    {
+        "skulls": [
+            {
+                "high_skull": 0,
+                "name": "Amanda Chen"
+            },
+            {
+                "high_skull": 0,
+                "name": "Anisha Bhattacharya"
+            },
+            {
+                "high_skull": 0,
+                "name": "Bryant Yancha-Pazmino"
+            },
+            {
+                "high_skull": 0,
+                "name": "Daniel Rosario"
+            },
+            {
+                "high_skull": 0,
+                "name": "Elizabeth Henshall"
+            },
+            {
+                "high_skull": 0,
+                "name": "Insiya Abbas"
+            },
+            {
+                "high_skull": 0,
+                "name": "Isabella Tyszka"
+            },
+            {
+                "high_skull": 0,
+                "name": "Julianna Johnson"
+            },
+            {
+                "high_skull": 0,
+                "name": "Kathryn Lee"
+            },
+            {
+                "high_skull": 0,
+                "name": "Kira Harris"
+            },
+            {
+                "high_skull": 0,
+                "name": "Maxine Shvachkin"
+            },
+            {
+                "high_skull": 0,
+                "name": "Muskan Jawed"
+            },
+            {
+                "high_skull": 0,
+                "name": "Nabeeha Soherwardy"
+            },
+            {
+                "high_skull": 0,
+                "name": "Noor Amanullah"
+            },
+            {
+                "high_skull": 0,
+                "name": "Sara Maria Rubiano"
+            },
+            {
+                "high_skull": 0,
+                "name": "Shaunak Kale"
+            },
+            {
+                "high_skull": 0,
+                "name": "Sohaib Hassan"
+            },
+            {
+                "high_skull": 0,
+                "name": "Zacharias Lee"
+            }
+        ],
+        "year": 2023
     }
 ]
