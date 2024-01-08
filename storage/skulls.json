@@ -6180,7 +6180,7 @@
                 "name": "Nabeeha Soherwardy"
             },
             {
-                "high_skull": 0,
+                "high_skull": 1,
                 "name": "Noor Amanullah"
             },
             {
@@ -6201,5 +6201,82 @@
             }
         ],
         "year": 2023
+    },
+    {
+        "skulls": [
+            {
+                "high_skull": 0,
+                "name": "Anna Cordova"
+            },
+            {
+                "high_skull": 0,
+                "name": "Anthony Lino-Barbosa"
+            },
+            {
+                "high_skull": 0,
+                "name": "Ava Feldman"
+            },
+            {
+                "high_skull": 0,
+                "name": "Cassandra Vega"
+            },
+            {
+                "high_skull": 0,
+                "name": "Destiny Colmenares"
+            },
+            {
+                "high_skull": 0,
+                "name": "Ella Walmsley"
+            },
+            {
+                "high_skull": 0,
+                "name": "Jonathan Bellinghausen"
+            },
+            {
+                "high_skull": 0,
+                "name": "Katherine Lombardi"
+            },
+            {
+                "high_skull": 0,
+                "name": "Katherine Sidebotham"
+            },
+            {
+                "high_skull": 0,
+                "name": "Kathryn Lynch"
+            },
+            {
+                "high_skull": 0,
+                "name": "Michael Panchery"
+            },
+            {
+                "high_skull": 0,
+                "name": "Nikhil Ramavenkat"
+            },
+            {
+                "high_skull": 0,
+                "name": "Noah McAllister"
+            },
+            {
+                "high_skull": 0,
+                "name": "Nora Asker"
+            },
+            {
+                "high_skull": 0,
+                "name": "Sana Amanullah"
+            },
+            {
+                "high_skull": 0,
+                "name": "Sheaa Amin"
+            },
+            {
+                "high_skull": 0,
+                "name": "Victoria Benaroya"
+            },
+            {
+                "high_skull": 0,
+                "name": "Zoë D'Amico"
+            }
+        ],
+        "year": 2024
     }
 ]
