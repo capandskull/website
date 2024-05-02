@@ -6278,5 +6278,82 @@
             }
         ],
         "year": 2024
+    },
+    {
+        "skulls": [
+            {
+                "high_skull": 0,
+                "name": "Lilian Agu"
+            },
+            {
+                "high_skull": 0,
+                "name": "Travis Anane"
+            },
+            {
+                "high_skull": 0,
+                "name": "Elisa Bu Sha"
+            },
+            {
+                "high_skull": 0,
+                "name": "Gabrielle Carmella"
+            },
+            {
+                "high_skull": 0,
+                "name": "Julianne Chan"
+            },
+            {
+                "high_skull": 0,
+                "name": "Daniel Dias"
+            },
+            {
+                "high_skull": 0,
+                "name": "Hassan Elsamna"
+            },
+            {
+                "high_skull": 0,
+                "name": "Andrea Ferreira"
+            },
+            {
+                "high_skull": 0,
+                "name": "Herrin Fontenette"
+            },
+            {
+                "high_skull": 0,
+                "name": "Milena Guevara"
+            },
+            {
+                "high_skull": 0,
+                "name": "Nami Jain"
+            },
+            {
+                "high_skull": 0,
+                "name": "Crystal Kilfeather"
+            },
+            {
+                "high_skull": 0,
+                "name": "Emma Rentzel"
+            },
+            {
+                "high_skull": 0,
+                "name": "Emily Schneider"
+            },
+            {
+                "high_skull": 0,
+                "name": "Ishareet Sohal"
+            },
+            {
+                "high_skull": 0,
+                "name": "Samahal Waseem"
+            },
+            {
+                "high_skull": 0,
+                "name": "Anthony Zhang"
+            },
+            {
+                "high_skull": 0,
+                "name": "Albert Zhou"
+            }
+        ],
+        "year": 2025
     }
 ]
