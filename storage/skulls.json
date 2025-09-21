@@ -6355,5 +6355,82 @@
             }
         ],
         "year": 2025
+    },
+    {
+      "skulls": [
+        {
+            "high_skull": 0,
+            "name": "Adrian Jackson"
+        },
+        {
+            "high_skull": 0,
+            "name": "Andie Purks"
+        },
+        {
+            "high_skull": 0,
+            "name": "Angela Xue"
+        },
+        {
+            "high_skull": 0,
+            "name": "Anjo Therattil"
+        },
+        {
+            "high_skull": 0,
+            "name": "Avi Bhuyan"
+        },
+        {
+            "high_skull": 0,
+            "name": "Chelsea Mercado"
+        },
+        {
+            "high_skull": 0,
+            "name": "Chloe Berwick"
+        },
+        {
+            "high_skull": 0,
+            "name": "Christopher Godoy"
+        },
+        {
+            "high_skull": 0,
+            "name": "JoAna Marie Henigan"
+        },
+        {
+            "high_skull": 0,
+            "name": "Kayla Tutten"
+        },
+        {
+            "high_skull": 0,
+            "name": "Larissa De Paula"
+        },
+        {
+            "high_skull": 0,
+            "name": "Omar Abuattieh"
+        },
+        {
+            "high_skull": 0,
+            "name": "Saad Qureshi"
+        },
+        {
+            "high_skull": 0,
+            "name": "Sarah Benedicto"
+        },
+        {
+            "high_skull": 0,
+            "name": "Sophia Yeh"
+        },
+        {
+            "high_skull": 0,
+            "name": "Tatiana Sarmiento"
+        },
+        {
+            "high_skull": 0,
+            "name": "Valeria Monsalve"
+        },
+        {
+            "high_skull": 0,
+            "name": "Zamira Knight"
+        }
+      ],
+      "year": 2026
     }
 ]
